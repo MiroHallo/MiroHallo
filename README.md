@@ -1,4 +1,4 @@
-## Hi there, I'm Miroslav Hallo
+## Hi there, I'm Miroslav Hallo, Ph.D.
 
 Senior Quantitative Scientist | Seismology, Bayesian Inference, HPC, MCMC, Time Series, Data Science, Energy
 
