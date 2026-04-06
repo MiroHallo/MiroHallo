@@ -5,8 +5,8 @@ Senior Quantitative Scientist | Seismology, Bayesian Inference, HPC, MCMC, Time 
 I am a Senior Quantitative Scientist with over 15 years of experience in large-scale numerical modeling and complex data analysis. My work sits at the intersection of Geophysics, Data Science, and High-Performance Computing (HPC), with a core focus on quantifying uncertainty. I specialize in transforming complex physical problems into scalable, production-grade numerical software.
 
 💻 **Featured Code**
-  - **SQL Query Tool for Vs30 data in Japan** | [sql-query-vs30-japan](https://github.com/MiroHallo/sql-query-vs30-japan) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) ![GeoPandas](https://img.shields.io/badge/GeoPandas-%23139C5A.svg?style=flat-square&logo=geopandas&logoColor=white) ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-%23D71F00.svg?style=flat-square&logo=sqlalchemy&logoColor=white)
-  - **Decomposition of complex earthquake source** | [mt-major-minor](https://github.com/MiroHallo/mt-major-minor) | ![MATLAB](https://img.shields.io/badge/MATLAB-%23ED1C24.svg?style=flat-square&logo=mathworks&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%2311557c.svg?style=flat-square&logo=matplotlib&logoColor=white)
+  - **SQL Query Tool for Vs30 data in Japan** | [sql-query-vs30-japan](https://github.com/MiroHallo/sql-query-vs30-japan) 
+  - **Decomposition of complex earthquake sources** | [mt-major-minor](https://github.com/MiroHallo/mt-major-minor) 
 
 🛠 **Technical Proficiencies**
   - **Languages & HPC**
