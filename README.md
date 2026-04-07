@@ -3,7 +3,7 @@
 I am a Senior Quantitative Scientist with over 15 years of experience in large-scale numerical modeling and complex data analysis. My work sits at the intersection of Geophysics, Data Science, and High-Performance Computing (HPC), with a core focus on Bayesian Inference and uncertainty quantification (UQ). I specialize in transforming complex physical problems into scalable, production-grade numerical software.
 
 ⚡ **Seismic Hazard Assessment Tools**
-  - SQL Query Tool for Vs30 data in Japan | [sql-query-vs30-japan](https://github.com/MiroHallo/sql-query-vs30-japan) (Python)
+  - SQL Query Tool for Vs30 data in Japan (Python) | [sql-query-vs30-japan](https://github.com/MiroHallo/sql-query-vs30-japan)
 
 ⚡ **Bayesian Inference Frameworks (HPC, UQ)**
  - Uncertainty quantification in Bayesian earthquake source inversions | [seismic-gf-uncertainty](https://github.com/MiroHallo/seismic-gf-uncertainty) | Fortran
