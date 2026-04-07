@@ -3,14 +3,14 @@
 I am a Senior Quantitative Scientist with over 15 years of experience in large-scale numerical modeling and complex data analysis. My work sits at the intersection of Geophysics, Data Science, and High-Performance Computing (HPC), with a core focus on Bayesian Inference and uncertainty quantification (UQ). I specialize in transforming complex physical problems into scalable, production-grade numerical software.
 
 ⚡ **Seismic Hazard Assessment Tools**
-  - SQL Query Tool for Vs30 data in Japan | [sql-query-vs30-japan](https://github.com/MiroHallo/sql-query-vs30-japan)
+  - SQL Query Tool for Vs30 data in Japan | [sql-query-vs30-japan](https://github.com/MiroHallo/sql-query-vs30-japan) | Python
 
 ⚡ **Bayesian Inference Frameworks (HPC, UQ)**
- - Uncertainty quantification in Bayesian earthquake source inversions | [seismic-gf-uncertainty](https://github.com/MiroHallo/seismic-gf-uncertainty)
+ - Uncertainty quantification in Bayesian earthquake source inversions | [seismic-gf-uncertainty](https://github.com/MiroHallo/seismic-gf-uncertainty) | Fortran
 
 ⚡ **Earthquake Source Analysis Toolkit**
- - Decomposition of complex earthquake sources | [mt-major-minor](https://github.com/MiroHallo/mt-major-minor)
- - Plot focal mechanism PT-axes into polar and triangle diagrams | [focal-mech-pt-plots](https://github.com/MiroHallo/focal-mech-pt-plots)
+ - Decomposition of complex earthquake sources | [mt-major-minor](https://github.com/MiroHallo/mt-major-minor) | MATLAB, Python
+ - Plot focal mechanism PT-axes into polar and triangle diagrams | [focal-mech-pt-plots](https://github.com/MiroHallo/focal-mech-pt-plots) | MATLAB
 
 🛠 **Technical Proficiencies**
   - Languages
