@@ -6,11 +6,11 @@ I am a Senior Quantitative Scientist with over 15 years of experience in large-s
   - SQL Query Tool for Vs30 data in Japan (Python) | [sql-query-vs30-japan](https://github.com/MiroHallo/sql-query-vs30-japan)
 
 ⚡ **Bayesian Inference Frameworks (HPC, UQ)**
- - Uncertainty quantification in Bayesian earthquake source inversions | [seismic-gf-uncertainty](https://github.com/MiroHallo/seismic-gf-uncertainty) | Fortran
+ - Uncertainty quantification in Bayesian source inversions (Fortran) | [seismic-gf-uncertainty](https://github.com/MiroHallo/seismic-gf-uncertainty)
 
 ⚡ **Earthquake Source Analysis Toolkit**
- - Decomposition of complex earthquake sources | [mt-major-minor](https://github.com/MiroHallo/mt-major-minor) | MATLAB, Python
- - Plot focal mechanism PT-axes into polar and triangle diagrams | [focal-mech-pt-plots](https://github.com/MiroHallo/focal-mech-pt-plots) | MATLAB
+ - Decomposition of complex earthquake sources (MATLAB, Python) | [mt-major-minor](https://github.com/MiroHallo/mt-major-minor)
+ - Plot focal mechanism PT-axes into polar and triangle diagrams (MATLAB) | [focal-mech-pt-plots](https://github.com/MiroHallo/focal-mech-pt-plots)
 
 🛠 **Technical Proficiencies**
   - Languages
