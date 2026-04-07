@@ -11,7 +11,7 @@ I am a Senior Quantitative Scientist with over 15 years of experience in large-s
 ⚡ **Earthquake Source Analysis Tools:**
  - Decomposition of complex earthquake sources (MATLAB/Python) | [mt-major-minor](https://github.com/MiroHallo/mt-major-minor)
  - Focal mechanism PT-axes in polar and triangle diagrams (MATLAB) | [focal-mech-pt-plots](https://github.com/MiroHallo/focal-mech-pt-plots)
----
+──────────
 🛠 **Technical Proficiencies:**
   - Languages
 ![Fortran](https://img.shields.io/badge/fortran-%23734f96.svg?style=flat-square&logo=fortran&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![MATLAB](https://img.shields.io/badge/MATLAB-%23ED1C24.svg?style=flat-square&logo=mathworks&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=flat-square&logo=gnu-bash&logoColor=white) ![Delphi](https://img.shields.io/badge/Delphi-%23E1111C.svg?style=flat-square&logo=delphi&logoColor=white)
