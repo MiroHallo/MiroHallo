@@ -8,9 +8,12 @@ I am a Senior Quantitative Scientist with over 15 years of experience in large-s
 
 ⚡ **Earthquake Source & Rupture Dynamics**
  - Decomposition of complex earthquake sources | [mt-major-minor](https://github.com/MiroHallo/mt-major-minor)
+
 ⚡ **Bayesian Inference & Uncertainty Quantification**
 
+
 ⚡ **High-Performance Computing**
+
 
 🛠 **Technical Proficiencies**
   - Languages
