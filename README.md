@@ -5,7 +5,7 @@ I am a Senior Quantitative Scientist with over 15 years of experience in large-s
 ⚡ **Seismic Hazard Assessment Tools**
   - SQL Query Tool for Vs30 data in Japan | [sql-query-vs30-japan](https://github.com/MiroHallo/sql-query-vs30-japan)
 
-⚡ **Bayesian Inference Frameworks (UQ, HPC)**
+⚡ **Bayesian Inference Frameworks (HPC, UQ)**
  - Uncertainty quantification in Bayesian earthquake source inversions | [seismic-gf-uncertainty](https://github.com/MiroHallo/seismic-gf-uncertainty)
 
 ⚡ **Earthquake Source Analysis Toolkit**
