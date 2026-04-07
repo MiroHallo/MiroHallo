@@ -2,9 +2,15 @@
 
 I am a Senior Quantitative Scientist with over 15 years of experience in large-scale numerical modeling and complex data analysis. My work sits at the intersection of Geophysics, Data Science, and High-Performance Computing (HPC), with a core focus on Bayesian Inference and quantifying uncertainty. I specialize in transforming complex physical problems into scalable, production-grade numerical software.
 
-💻◈◎ **Featured Code**
+⚡ **Seismic Hazard & Risk Assessment**
   - SQL Query Tool for Vs30 data in Japan | [sql-query-vs30-japan](https://github.com/MiroHallo/sql-query-vs30-japan) 
-  - Decomposition of complex earthquake sources | [mt-major-minor](https://github.com/MiroHallo/mt-major-minor) 
+  - Decomposition of complex earthquake sources | [mt-major-minor](https://github.com/MiroHallo/mt-major-minor)
+
+⚡ **Earthquake Source & Rupture Dynamics**
+
+⚡ **Bayesian Inference & Uncertainty Quantification**
+
+⚡ **High-Performance Computing**
 
 🛠 **Technical Proficiencies**
   - Languages
