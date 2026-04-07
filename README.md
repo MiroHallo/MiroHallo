@@ -8,8 +8,8 @@ I am a Senior Quantitative Scientist with over 15 years of experience in large-s
 ⚡ **Bayesian Inference Frameworks (HPC, UQ)**
  - Uncertainty quantification in Bayesian source inversions (Fortran) | [seismic-gf-uncertainty](https://github.com/MiroHallo/seismic-gf-uncertainty)
 
-⚡ **Earthquake Source Analysis Toolkit**
- - Decomposition of complex earthquake sources (MATLAB, Python) | [mt-major-minor](https://github.com/MiroHallo/mt-major-minor)
+⚡ **Earthquake Source Analysis Toolkits**
+ - Decomposition of complex earthquake sources (MATLAB/Python) | [mt-major-minor](https://github.com/MiroHallo/mt-major-minor)
  - Plot focal mechanism PT-axes into polar and triangle diagrams (MATLAB) | [focal-mech-pt-plots](https://github.com/MiroHallo/focal-mech-pt-plots)
 
 🛠 **Technical Proficiencies**
