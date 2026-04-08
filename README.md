@@ -4,6 +4,7 @@ I am a Senior Quantitative Scientist with over 15 years of experience in large-s
 
 ⚡ **Seismic Hazard Assessment Tools**
  - SQL Query Tool for site-specific Vs30 in Japan (Python) | [sql-query-vs30-japan](https://github.com/MiroHallo/sql-query-vs30-japan)
+ - Stochastic model for site-specific amplification (MATLAB) | [stochastic-amplif-model](https://github.com/MiroHallo/stochastic-amplif-model)
 
 ⚡ **Bayesian Inference Tools (HPC, UQ)**
  - Uncertainty quantification in Bayesian earthquake source inversions (Fortran) | [seismic-gf-uncertainty](https://github.com/MiroHallo/seismic-gf-uncertainty)
