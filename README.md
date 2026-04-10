@@ -8,6 +8,7 @@ I am a Senior Quantitative Scientist with over 15 years of experience in large-s
 
 ⚡ **Bayesian Inference Tools (HPC, UQ)**
  - Uncertainty quantification in Bayesian earthquake source inversions (Fortran) | [seismic-gf-uncertainty](https://github.com/MiroHallo/seismic-gf-uncertainty)
+ - HPC-parallelized Bayesian Parametric Slip Inversion (Fortran) | [PSI](https://github.com/MiroHallo/PSI)
  - Bayesian hypocenter location from arrival times of P & S waves (MATLAB) | [bayesian-quake-loc](https://github.com/MiroHallo/bayesian-quake-loc)
 
 ⚡ **Earthquake Source Analysis Tools**
