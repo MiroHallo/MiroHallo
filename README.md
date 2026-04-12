@@ -1,12 +1,12 @@
 ## Hi there, I'm Miroslav Hallo, Ph.D.
 
-I am a Senior Quantitative Scientist with over 15 years of experience in large-scale numerical modeling and complex data analysis. My work sits at the intersection of Geophysics, Data Science, and High-Performance Computing (HPC), with a core focus on Bayesian Inference and uncertainty quantification (UQ). I specialize in transforming complex physical problems into scalable, production-grade numerical software.
+I am a Senior Quantitative Scientist with over 15 years of experience in large-scale numerical modeling and complex data analysis. My work sits at the intersection of Geophysics, Data Science, and High-Performance Computing (HPC), with a core focus on Bayesian Inference and uncertainty quantification. I specialize in transforming complex physical problems into scalable, production-grade numerical software.
 
 ⚡ **Seismic Hazard Assessment Tools**
  - SQL Query Tool for site-specific Vs30 in Japan (Python) | [sql-query-vs30-japan](https://github.com/MiroHallo/sql-query-vs30-japan)
  - Stochastic model for site-specific amplification (MATLAB) | [stochastic-amplif-model](https://github.com/MiroHallo/stochastic-amplif-model)
 
-⚡ **Bayesian Inference Tools (HPC, UQ)**
+⚡ **Bayesian Inference Tools (with HPC)**
  - HPC-parallelized Bayesian Parametric Slip Inversion (Fortran) | [PSI](https://github.com/MiroHallo/PSI)
  - Uncertainty Quantification in Bayesian earthquake source inversions (Fortran) | [seismic-gf-uncertainty](https://github.com/MiroHallo/seismic-gf-uncertainty)
  - Bayesian hypocenter location from arrival times of P & S waves (MATLAB) | [bayesian-quake-loc](https://github.com/MiroHallo/bayesian-quake-loc)
