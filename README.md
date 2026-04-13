@@ -12,7 +12,7 @@ I am a Senior Quantitative Scientist with over 15 years of experience in large-s
  - [bayesian-quake-loc](https://github.com/MiroHallo/bayesian-quake-loc) | Parallel Bayesian hypocenter location from arrival times (MATLAB, Parallel Pool)
 
 ⚡ **Earthquake Source Analysis Tools**
- - [mt-major-minor](https://github.com/MiroHallo/mt-major-minor) | Decomposition of complex earthquake sources (MATLAB, Python)
+ - [mt-major-minor](https://github.com/MiroHallo/mt-major-minor) | Decomposition of non-DC earthquake sources (MATLAB, Python)
  - [focal-mech-pt-plots](https://github.com/MiroHallo/focal-mech-pt-plots) | Focal mechanism PT-axes in polar and triangle diagrams (MATLAB)
 ## 
 🛠 **Technical Proficiencies**
