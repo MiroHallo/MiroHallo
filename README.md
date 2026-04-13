@@ -4,16 +4,16 @@ I am a Senior Quantitative Scientist with over 15 years of experience in large-s
 
 ⚡ **Seismic Hazard Assessment Tools**
  - [sql-query-vs30-japan](https://github.com/MiroHallo/sql-query-vs30-japan) | SQL Query Tool for site-specific Vs30 in Japan (Python)
- - Stochastic model for site-specific amplification (MATLAB) | [stochastic-amplif-model](https://github.com/MiroHallo/stochastic-amplif-model)
+ - [stochastic-amplif-model](https://github.com/MiroHallo/stochastic-amplif-model) | Stochastic model for site-specific amplification (MATLAB)
 
 ⚡ **Bayesian Inference Tools (with HPC)**
- - HPC-parallelized Bayesian Parametric Slip Inversion (Fortran) | [PSI](https://github.com/MiroHallo/PSI)
- - Uncertainty Quantification in Bayesian earthquake source inversions (Fortran) | [seismic-gf-uncertainty](https://github.com/MiroHallo/seismic-gf-uncertainty)
- - Bayesian hypocenter location from arrival times of P & S waves (MATLAB) | [bayesian-quake-loc](https://github.com/MiroHallo/bayesian-quake-loc)
+ - [PSI](https://github.com/MiroHallo/PSI) | HPC-parallelized Bayesian Parametric Slip Inversion (Fortran, MPI)
+ - [seismic-gf-uncertainty](https://github.com/MiroHallo/seismic-gf-uncertainty) | Uncertainty Quantification in Bayesian earthquake source inversions (Fortran)
+ - [bayesian-quake-loc](https://github.com/MiroHallo/bayesian-quake-loc) | Parallel Bayesian hypocenter location from arrival times of P & S waves (MATLAB)
 
 ⚡ **Earthquake Source Analysis Tools**
- - Decomposition of complex earthquake sources (MATLAB/Python) | [mt-major-minor](https://github.com/MiroHallo/mt-major-minor)
- - Focal mechanism PT-axes in polar and triangle diagrams (MATLAB) | [focal-mech-pt-plots](https://github.com/MiroHallo/focal-mech-pt-plots)
+ - [mt-major-minor](https://github.com/MiroHallo/mt-major-minor) | Decomposition of complex earthquake sources (MATLAB/Python)
+ - [focal-mech-pt-plots](https://github.com/MiroHallo/focal-mech-pt-plots) | Focal mechanism PT-axes in polar and triangle diagrams (MATLAB)
 ## 
 🛠 **Technical Proficiencies**
   - Languages
