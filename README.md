@@ -3,16 +3,16 @@
 I am a Senior Quantitative Scientist with over 15 years of experience in large-scale numerical modeling and complex data analysis. My work sits at the intersection of Geophysics, Data Science, and High-Performance Computing (HPC), with a core focus on Bayesian Inference and uncertainty quantification. I specialize in transforming complex physical problems into scalable, production-grade numerical software.
 
 ⚡ **Seismic Hazard Assessment Tools**
- - [sql-query-vs30-japan](https://github.com/MiroHallo/sql-query-vs30-japan) | SQL Query Tool for site-specific Vs30 in Japan (Python)
+ - [sql-query-vs30-japan](https://github.com/MiroHallo/sql-query-vs30-japan) | SQL Query Tool for site-specific Vs30 in Japan (Python, SQLite)
  - [stochastic-amplif-model](https://github.com/MiroHallo/stochastic-amplif-model) | Stochastic model for site-specific amplification (MATLAB)
 
 ⚡ **Bayesian Inference Tools (with HPC)**
  - [PSI](https://github.com/MiroHallo/PSI) | HPC-parallelized Bayesian Parametric Slip Inversion (Fortran, MPI)
  - [seismic-gf-uncertainty](https://github.com/MiroHallo/seismic-gf-uncertainty) | Uncertainty Quantification in Bayesian earthquake source inversions (Fortran)
- - [bayesian-quake-loc](https://github.com/MiroHallo/bayesian-quake-loc) | Parallel Bayesian hypocenter location from arrival times of P & S waves (MATLAB)
+ - [bayesian-quake-loc](https://github.com/MiroHallo/bayesian-quake-loc) | Parallel Bayesian hypocenter location from arrival times of P & S waves (MATLAB, Parallel Pool)
 
 ⚡ **Earthquake Source Analysis Tools**
- - [mt-major-minor](https://github.com/MiroHallo/mt-major-minor) | Decomposition of complex earthquake sources (MATLAB/Python)
+ - [mt-major-minor](https://github.com/MiroHallo/mt-major-minor) | Decomposition of complex earthquake sources (MATLAB, Python)
  - [focal-mech-pt-plots](https://github.com/MiroHallo/focal-mech-pt-plots) | Focal mechanism PT-axes in polar and triangle diagrams (MATLAB)
 ## 
 🛠 **Technical Proficiencies**
