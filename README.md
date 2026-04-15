@@ -2,14 +2,14 @@
 
 I am a Senior Quantitative Scientist with over 15 years of experience in large-scale numerical modeling and complex data analysis. My work sits at the intersection of Geophysics, Data Science, and High-Performance Computing (HPC), with a core focus on Bayesian Inference and Uncertainty Quantification. I specialize in transforming complex physical problems into scalable, production-grade numerical software.
 
-⚡ **Seismic Hazard Assessment Tools**
- - [sql-query-vs30-japan](https://github.com/MiroHallo/sql-query-vs30-japan) | SQL Query Tool for site-specific V<sub>S30</sub> in Japan (Python, SQLite)
- - [stochastic-amplif-model](https://github.com/MiroHallo/stochastic-amplif-model) | Stochastic model for site-specific amplification (MATLAB)
-
 ⚡ **Bayesian Inference Tools (with HPC)**
  - [PSI](https://github.com/MiroHallo/PSI) | HPC-parallelized Bayesian Parametric Slip Inversion (Fortran, MPI)
  - [seismic-gf-uncertainty](https://github.com/MiroHallo/seismic-gf-uncertainty) | Uncertainty Quantification in Bayesian earthquake source inversions (Fortran)
  - [bayesian-quake-loc](https://github.com/MiroHallo/bayesian-quake-loc) | Parallel Bayesian hypocenter location from arrival times (MATLAB, Parallel Pool)
+
+⚡ **Seismic Hazard Assessment Tools**
+ - [sql-query-vs30-japan](https://github.com/MiroHallo/sql-query-vs30-japan) | SQL Query Tool for site-specific V<sub>S30</sub> in Japan (Python, SQLite)
+ - [stochastic-amplif-model](https://github.com/MiroHallo/stochastic-amplif-model) | Stochastic model for site-specific amplification (MATLAB)
 
 ⚡ **Earthquake Source Analysis Tools**
  - [mt-major-minor](https://github.com/MiroHallo/mt-major-minor) | Decomposition of non-DC earthquake sources (MATLAB, Python)
