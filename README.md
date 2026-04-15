@@ -3,18 +3,18 @@
 I am a Senior Quantitative Scientist with over 15 years of experience in large-scale numerical modeling and complex data analysis. My work sits at the intersection of Geophysics, Data Science, and High-Performance Computing (HPC), with a core focus on Bayesian Inference and Uncertainty Quantification. I specialize in transforming complex physical problems into scalable, production-grade numerical software.
 
 ⚡ **Bayesian Inference Tools (HPC)**
- - [PSI](https://github.com/MiroHallo/PSI) | HPC-parallelized Bayesian Parametric Slip Inversion (Fortran, MPI for CPU)
- - bayes-intensity-loc | HPC-parallelized Bayesian epicenter location from seismic intensity (Python, JAX for CPU/GPU/TPU)
- - [bayesian-quake-loc](https://github.com/MiroHallo/bayesian-quake-loc) | Parallel Bayesian hypocenter location from arrival times (MATLAB, Parallel Pool for CPU)
- - [seismic-gf-uncertainty](https://github.com/MiroHallo/seismic-gf-uncertainty) | Uncertainty Quantification in Bayesian earthquake source inversions (Fortran)
+ - [PSI](https://github.com/MiroHallo/PSI) | HPC-parallelized Bayesian Parametric Slip Inversion — Fortran (MPI/CPU)
+ - bayes-intensity-loc | HPC-parallelized Bayesian epicenter location from seismic intensity — Python (JAX/CPU/GPU/TPU)
+ - [bayesian-quake-loc](https://github.com/MiroHallo/bayesian-quake-loc) | Parallel Bayesian hypocenter location from arrival times — MATLAB (Parallel Pool/CPU)
+ - [seismic-gf-uncertainty](https://github.com/MiroHallo/seismic-gf-uncertainty) | Uncertainty Quantification in Bayesian earthquake source inversions — Fortran
 
 ⚡ **Seismic Hazard Assessment Tools**
- - [sql-query-vs30-japan](https://github.com/MiroHallo/sql-query-vs30-japan) | SQL Query Tool for site-specific V<sub>S30</sub> in Japan (Python, SQLite)
- - [stochastic-amplif-model](https://github.com/MiroHallo/stochastic-amplif-model) | Stochastic model for site-specific amplification (MATLAB)
+ - [sql-query-vs30-japan](https://github.com/MiroHallo/sql-query-vs30-japan) | SQL Query Tool for site-specific V<sub>S30</sub> in Japan — Python (SQLite)
+ - [stochastic-amplif-model](https://github.com/MiroHallo/stochastic-amplif-model) | Stochastic model for site-specific amplification — MATLAB
 
 ⚡ **Earthquake Source Analysis Tools**
- - [mt-major-minor](https://github.com/MiroHallo/mt-major-minor) | Decomposition of non-DC earthquake sources (MATLAB, Python)
- - [focal-mech-pt-plots](https://github.com/MiroHallo/focal-mech-pt-plots) | Focal mechanism PT-axes in polar and triangle diagrams (MATLAB)
+ - [mt-major-minor](https://github.com/MiroHallo/mt-major-minor) | Decomposition of non-DC earthquake sources — MATLAB, Python
+ - [focal-mech-pt-plots](https://github.com/MiroHallo/focal-mech-pt-plots) | Focal mechanism PT-axes in polar and triangle diagrams — MATLAB
 ## 
 🛠 **Technical Proficiencies**
   - Languages
