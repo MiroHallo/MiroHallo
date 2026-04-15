@@ -3,8 +3,9 @@
 I am a Senior Quantitative Scientist with over 15 years of experience in large-scale numerical modeling and complex data analysis. My work sits at the intersection of Geophysics, Data Science, and High-Performance Computing (HPC), with a core focus on Bayesian Inference and Uncertainty Quantification. I specialize in transforming complex physical problems into scalable, production-grade numerical software.
 
 ⚡ **Bayesian Inference Tools (HPC)**
- - [PSI](https://github.com/MiroHallo/PSI) | HPC-parallelized Bayesian Parametric Slip Inversion (Fortran, MPI)
- - [bayesian-quake-loc](https://github.com/MiroHallo/bayesian-quake-loc) | Parallel Bayesian hypocenter location from arrival times (MATLAB, Parallel Pool)
+ - [PSI](https://github.com/MiroHallo/PSI) | HPC-parallelized Bayesian Parametric Slip Inversion (Fortran, MPI for CPU)
+ - bayes-intensity-loc | HPC-parallelized Bayesian epicenter location from seismic intensity (Python, JAX for CPU/GPU/TPU)
+ - [bayesian-quake-loc](https://github.com/MiroHallo/bayesian-quake-loc) | Parallel Bayesian hypocenter location from arrival times (MATLAB, Parallel Pool for CPU)
  - [seismic-gf-uncertainty](https://github.com/MiroHallo/seismic-gf-uncertainty) | Uncertainty Quantification in Bayesian earthquake source inversions (Fortran)
 
 ⚡ **Seismic Hazard Assessment Tools**
