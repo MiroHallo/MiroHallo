@@ -53,13 +53,10 @@ I am a Senior Quantitative Scientist with over 15 years of experience in large-s
 地震学、データサイエンス、およびハイパフォーマンスコンピューティング（HPC）を専門とするシニア・クオンティティティブ・サイエンティストです。15年以上にわたり、複雑な物理現象をスケーラブルな解析ソフトウェアへと落とし込むことに注力してきました。特に日本における地震動評価、ベイズ推論、および不確実性解析に深い専門性を持っています。
 
 ⚡ **ベイズ推論とHPC解析：**
-
 &nbsp;&nbsp;&nbsp;&nbsp;[PSI](https://github.com/MiroHallo/PSI) (Fortran, MPI) &nbsp;&nbsp;•&nbsp;&nbsp; NEOPSY (Fortran, MPI) &nbsp;&nbsp;•&nbsp;&nbsp; [bayesian-intensity-loc](https://github.com/MiroHallo/bayesian-intensity-loc) (Python, JAX) &nbsp;&nbsp;•&nbsp;&nbsp; [bayesian-quake-loc](https://github.com/MiroHallo/bayesian-quake-loc) (MATLAB, Parallel Pool) &nbsp;&nbsp;•&nbsp;&nbsp; [seismic-gf-uncertainty](https://github.com/MiroHallo/seismic-gf-uncertainty) (Fortran)
  
 ⚡ **地震災害リスク評価：**
-
 &nbsp;&nbsp;&nbsp;&nbsp;[sql-query-vs30-japan](https://github.com/MiroHallo/sql-query-vs30-japan) (Python, SQLite) &nbsp;&nbsp;•&nbsp;&nbsp; [stochastic-amplif-model](https://github.com/MiroHallo/stochastic-amplif-model) (MATLAB)
 
 ⚡ **震源特性解析：**
-
 &nbsp;&nbsp;&nbsp;&nbsp;[mt-major-minor](https://github.com/MiroHallo/mt-major-minor) (MATLAB & Python) &nbsp;&nbsp;•&nbsp;&nbsp; [focal-mech-pt-plots](https://github.com/MiroHallo/focal-mech-pt-plots) (MATLAB)
