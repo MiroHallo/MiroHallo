@@ -45,10 +45,10 @@ I am a Senior Quantitative Scientist with over 15 years of experience in large-s
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6?style=flat-square&logo=css3&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4?style=flat-square&logo=php&logoColor=white)
 
-## 概要
-地震学、データサイエンス、およびハイパフォーマンスコンピューティング（HPC）を専門とするシニア・クオンティティティブ・サイエンティストです。15年以上にわたり、複雑な物理現象をスケーラブルな解析ソフトウェアへと落とし込むことに注力してきました。特に日本における地震動評価、ベイズ推論、および不確実性解析に深い知見を持っています。
+---
 
-**主な研究・開発分野:**
-*   **ベイズ推論とHPC解析** (PSI, NEOPSY, bayesian-intensity-loc)
-*   **地震災害リスク評価** (VS30-Japan, Stochastic amplification)
-*   **震源特性解析** (Non-DC decomposition, Focal mechanism plots)
+地震学、データサイエンス、およびハイパフォーマンスコンピューティング（HPC）を専門とするシニア・クオンティティティブ・サイエンティストです。15年以上にわたり、複雑な物理現象をスケーラブルな解析ソフトウェアへと落とし込むことに注力してきました。特に日本における地震動評価、ベイズ推論、および不確実性解析に深い専門性を持っています。
+
+⚡ **ベイズ推論とHPC解析** ([PSI](https://github.com/MiroHallo/PSI), [bayesian-intensity-loc](https://github.com/MiroHallo/bayesian-intensity-loc), [seismic-gf-uncertainty](https://github.com/MiroHallo/seismic-gf-uncertainty))
+⚡ **地震災害リスク評価** ([sql-query-vs30-japan](https://github.com/MiroHallo/sql-query-vs30-japan), [stochastic-amplif-model](https://github.com/MiroHallo/stochastic-amplif-model))
+⚡ **震源特性解析** ([mt-major-minor](https://github.com/MiroHallo/mt-major-minor), [focal-mech-pt-plots](https://github.com/MiroHallo/focal-mech-pt-plots))
