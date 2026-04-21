@@ -46,7 +46,7 @@ I am a Senior Quantitative Scientist with over 15 years of experience in large-s
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4?style=flat-square&logo=php&logoColor=white)
 
 ## 
-🇯🇵 **Japanese Version**
+⛩️ **日本語プロフィール (Japanese Version)**
 
 ハロー・ミロスラヴと申します。
 
