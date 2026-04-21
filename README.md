@@ -1,5 +1,5 @@
 ## Hi there, I'm Miroslav Hallo, Ph.D.
-<a href="#jp"><img src="https://img.shields.io/badge/日本語-grey?style=flat" alt="日本語"></a>
+<span style="float: right;"><a href="#jp"><img src="https://img.shields.io/badge/日本語-grey?style=flat" alt="日本語"></a></span>
 I am a Senior Quantitative Scientist with over 15 years of experience in large-scale numerical modeling and complex data analysis. My work sits at the intersection of Geophysics, Data Science, and High-Performance Computing (HPC), with a core focus on Bayesian Inference and Uncertainty Quantification. I specialize in transforming complex physical problems into scalable, production-grade numerical software.
 
 ⚡ **Bayesian Inference Tools (HPC)**
@@ -45,7 +45,7 @@ I am a Senior Quantitative Scientist with over 15 years of experience in large-s
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6?style=flat-square&logo=css3&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4?style=flat-square&logo=php&logoColor=white)
 
----
+## 
 <a name="jp"></a>
 ハロー・ミロスラヴと申します。
 
