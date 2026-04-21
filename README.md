@@ -27,7 +27,15 @@ I am a Senior Quantitative Scientist with over 15 years of experience in large-s
 ![Delphi](https://img.shields.io/badge/Delphi-%23CC2927?style=flat-square&logo=delphi&logoColor=white)
 
   - Data Science
-![JAX-JIT](https://img.shields.io/badge/JAX-jit-blue?style=flat-square&logo=google&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat-square&logo=scipy&logoColor=white) ![ObsPy](https://img.shields.io/badge/ObsPy-000000.svg?style=flat-square&logo=obspy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%2311557c.svg?style=flat-square&logo=matplotlib&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) ![GeoPandas](https://img.shields.io/badge/GeoPandas-%23139C5A.svg?style=flat-square&logo=geopandas&logoColor=white) ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-%23D71F00.svg?style=flat-square&logo=sqlalchemy&logoColor=white) ![Requests](https://img.shields.io/badge/Requests-%23075a9f.svg?style=flat-square&logo=python&logoColor=white)
+![JAX](https://img.shields.io/badge/JAX-JIT-%234285F4?style=flat-square&logo=google&logoColor=white&labelColor=%235F6368)
+![NumPy](https://img.shields.io/badge/NumPy-%23013243?style=flat-square&logo=numpy&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-%238CAAE6?style=flat-square&logo=scipy&logoColor=white)
+![ObsPy](https://img.shields.io/badge/ObsPy-%23000000?style=flat-square)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%2311557C?style=flat-square&logo=matplotlib&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-%23150458?style=flat-square&logo=pandas&logoColor=white)
+![GeoPandas](https://img.shields.io/badge/GeoPandas-%233C8E4A?style=flat-square&logo=geopandas&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-%23D71F00?style=flat-square&logo=sqlalchemy&logoColor=white)
+![Requests](https://img.shields.io/badge/Requests-%233776AB?style=flat-square&logo=internetexplorer&logoColor=white)
 
   - Databases & Web
 ![SQL](https://img.shields.io/badge/sql-%234479A1.svg?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white)
