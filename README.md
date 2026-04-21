@@ -44,3 +44,11 @@ I am a Senior Quantitative Scientist with over 15 years of experience in large-s
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6?style=flat-square&logo=css3&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4?style=flat-square&logo=php&logoColor=white)
+
+## 概要
+地震学、データサイエンス、およびハイパフォーマンスコンピューティング（HPC）を専門とするシニア・クオンティティティブ・サイエンティストです。15年以上にわたり、複雑な物理現象をスケーラブルな解析ソフトウェアへと落とし込むことに注力してきました。特に日本における地震動評価、ベイズ推論、および不確実性解析に深い知見を持っています。
+
+**主な研究・開発分野:**
+*   **ベイズ推論とHPC解析** (PSI, NEOPSY, bayesian-intensity-loc)
+*   **地震災害リスク評価** (VS30-Japan, Stochastic amplification)
+*   **震源特性解析** (Non-DC decomposition, Focal mechanism plots)
