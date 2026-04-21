@@ -2,8 +2,6 @@
 
 I am a Senior Quantitative Scientist with over 15 years of experience in large-scale numerical modeling and complex data analysis. My work sits at the intersection of Geophysics, Data Science, and High-Performance Computing (HPC), with a core focus on Bayesian Inference and Uncertainty Quantification. I specialize in transforming complex physical problems into scalable, production-grade numerical software.
 
-<a href="#jp"><img src="https://img.shields.io/badge/日本語-grey?style=flat" alt="日本語"></a>
-
 ⚡ **Bayesian Inference Tools (HPC)**
  - [PSI](https://github.com/MiroHallo/PSI) | HPC-parallelized transdimensional Bayesian parametric slip inversion — Fortran (MPI | CPU)
  - NEOPSY | HPC-parallelized transdimensional Bayesian inversion for near-surface imaging — Fortran (MPI | CPU)
@@ -48,21 +46,16 @@ I am a Senior Quantitative Scientist with over 15 years of experience in large-s
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4?style=flat-square&logo=php&logoColor=white)
 
 ## 
-<a name="jp"></a>
+
 ハロー・ミロスラヴと申します。
 
 地震学、データサイエンス、およびハイパフォーマンスコンピューティング（HPC）を専門とするシニア・クオンティティティブ・サイエンティストです。15年以上にわたり、複雑な物理現象をスケーラブルな解析ソフトウェアへと落とし込むことに注力してきました。特に日本における地震動評価、ベイズ推論、および不確実性解析に深い専門性を持っています。
 
 ⚡ **ベイズ推論とHPC解析**
- - [PSI](https://github.com/MiroHallo/PSI) | Fortran (MPI | CPU)
- - [bayesian-intensity-loc](https://github.com/MiroHallo/bayesian-intensity-loc) | Python (JAX | CPU/GPU/TPU)
- - [bayesian-quake-loc](https://github.com/MiroHallo/bayesian-quake-loc) | MATLAB (Parallel Pool | CPU)
- - [seismic-gf-uncertainty](https://github.com/MiroHallo/seismic-gf-uncertainty) | Fortran
+ - [PSI](https://github.com/MiroHallo/PSI) — Fortran (MPI), [bayesian-intensity-loc](https://github.com/MiroHallo/bayesian-intensity-loc) — Python (JAX), [bayesian-quake-loc](https://github.com/MiroHallo/bayesian-quake-loc) — MATLAB (Parallel Pool), [seismic-gf-uncertainty](https://github.com/MiroHallo/seismic-gf-uncertainty) — Fortran
  
 ⚡ **地震災害リスク評価**
- - [sql-query-vs30-japan](https://github.com/MiroHallo/sql-query-vs30-japan) | Python (SQLite)
- - [stochastic-amplif-model](https://github.com/MiroHallo/stochastic-amplif-model) | MATLAB
+ - [sql-query-vs30-japan](https://github.com/MiroHallo/sql-query-vs30-japan) — Python (SQLite), [stochastic-amplif-model](https://github.com/MiroHallo/stochastic-amplif-model) — MATLAB
 
 ⚡ **震源特性解析**
- - [mt-major-minor](https://github.com/MiroHallo/mt-major-minor) | MATLAB, Python
- - [focal-mech-pt-plots](https://github.com/MiroHallo/focal-mech-pt-plots) | MATLAB
+ - [mt-major-minor](https://github.com/MiroHallo/mt-major-minor) — MATLAB & Python, [focal-mech-pt-plots](https://github.com/MiroHallo/focal-mech-pt-plots) — MATLAB
