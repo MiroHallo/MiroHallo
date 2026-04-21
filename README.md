@@ -23,8 +23,8 @@ I am a Senior Quantitative Scientist with over 15 years of experience in large-s
 ![Python](https://img.shields.io/badge/Python-%233776AB?style=flat-square&logo=python&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-%23ED7D31?style=flat-square)
 ![C++](https://img.shields.io/badge/C++-%2300599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-%23121011?style=flat-square&logo=gnu-bash&logoColor=white)
 ![Delphi](https://img.shields.io/badge/Delphi-%23CC2927?style=flat-square&logo=delphi&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-%23121011?style=flat-square&logo=gnu-bash&logoColor=white)
 
   - Data Science
 ![JAX](https://img.shields.io/badge/JAX-JIT-%234285F4?style=flat-square&logo=google&logoColor=white&labelColor=%235F6368)
@@ -42,5 +42,5 @@ I am a Senior Quantitative Scientist with over 15 years of experience in large-s
 ![MySQL](https://img.shields.io/badge/MySQL-%234479A1?style=flat-square&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-%23003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6?style=flat-square&logo=w3c&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6?style=flat-square&logo=css3&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4?style=flat-square&logo=php&logoColor=white)
