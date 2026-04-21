@@ -47,8 +47,20 @@ I am a Senior Quantitative Scientist with over 15 years of experience in large-s
 
 ---
 
+## ハロー・ミロスラヴと申します。
+
 地震学、データサイエンス、およびハイパフォーマンスコンピューティング（HPC）を専門とするシニア・クオンティティティブ・サイエンティストです。15年以上にわたり、複雑な物理現象をスケーラブルな解析ソフトウェアへと落とし込むことに注力してきました。特に日本における地震動評価、ベイズ推論、および不確実性解析に深い専門性を持っています。
 
-⚡ **ベイズ推論とHPC解析** ([PSI](https://github.com/MiroHallo/PSI), [bayesian-intensity-loc](https://github.com/MiroHallo/bayesian-intensity-loc), [seismic-gf-uncertainty](https://github.com/MiroHallo/seismic-gf-uncertainty))
-⚡ **地震災害リスク評価** ([sql-query-vs30-japan](https://github.com/MiroHallo/sql-query-vs30-japan), [stochastic-amplif-model](https://github.com/MiroHallo/stochastic-amplif-model))
-⚡ **震源特性解析** ([mt-major-minor](https://github.com/MiroHallo/mt-major-minor), [focal-mech-pt-plots](https://github.com/MiroHallo/focal-mech-pt-plots))
+⚡ **ベイズ推論とHPC解析**
+ - [PSI](https://github.com/MiroHallo/PSI) | Fortran (MPI | CPU)
+ - [bayesian-intensity-loc](https://github.com/MiroHallo/bayesian-intensity-loc) | Python (JAX | CPU/GPU/TPU)
+ - [bayesian-quake-loc](https://github.com/MiroHallo/bayesian-quake-loc) | MATLAB (Parallel Pool | CPU)
+ - [seismic-gf-uncertainty](https://github.com/MiroHallo/seismic-gf-uncertainty) | Fortran
+ 
+⚡ **地震災害リスク評価**
+ - [sql-query-vs30-japan](https://github.com/MiroHallo/sql-query-vs30-japan) | Python (SQLite)
+ - [stochastic-amplif-model](https://github.com/MiroHallo/stochastic-amplif-model) | MATLAB
+
+⚡ **震源特性解析**
+ - [mt-major-minor](https://github.com/MiroHallo/mt-major-minor) | MATLAB, Python
+ - [focal-mech-pt-plots](https://github.com/MiroHallo/focal-mech-pt-plots) | MATLAB
