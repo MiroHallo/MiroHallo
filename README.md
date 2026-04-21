@@ -59,4 +59,4 @@ I am a Senior Quantitative Scientist with over 15 years of experience in large-s
 [sql-query-vs30-japan](https://github.com/MiroHallo/sql-query-vs30-japan) (Python, SQLite) ・ [stochastic-amplif-model](https://github.com/MiroHallo/stochastic-amplif-model) (MATLAB)
 
 *  **【震源特性解析】**
-[mt-major-minor](https://github.com/MiroHallo/mt-major-minor) (MATLAB & Python) ❖ [focal-mech-pt-plots](https://github.com/MiroHallo/focal-mech-pt-plots) (MATLAB)
+[mt-major-minor](https://github.com/MiroHallo/mt-major-minor) (MATLAB & Python) ・ [focal-mech-pt-plots](https://github.com/MiroHallo/focal-mech-pt-plots) (MATLAB)
