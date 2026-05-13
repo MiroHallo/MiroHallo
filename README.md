@@ -4,7 +4,7 @@ I am a Senior Quantitative Scientist with over 15 years of experience in large-s
 
 ⚡ **Bayesian Inference Tools (HPC)**
  - [PSI](https://github.com/MiroHallo/PSI) | HPC-parallelized transdimensional Bayesian parametric slip inversion — Fortran (MPI | CPU)
- - NEOPSY | HPC-parallelized transdimensional Bayesian inversion for near-surface imaging — Fortran (MPI | CPU)
+ - [NEOPSY](https://github.com/MiroHallo/NEOPSY) | HPC-parallelized transdimensional Bayesian inversion for near-surface imaging — Fortran (MPI | CPU)
  - [bayesian-intensity-loc](https://github.com/MiroHallo/bayesian-intensity-loc) | High-Performance Bayesian earthquake location from seismic intensity — Python (JAX | CPU/GPU/TPU)
  - [bayesian-quake-loc](https://github.com/MiroHallo/bayesian-quake-loc) | Parallel Bayesian hypocenter location from arrival times — MATLAB (Parallel Pool | CPU)
  - [seismic-gf-uncertainty](https://github.com/MiroHallo/seismic-gf-uncertainty) | Uncertainty Quantification in Bayesian earthquake source inversions — Fortran
